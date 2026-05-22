@@ -46,3 +46,8 @@ The transform script handles each field like this:
 
 After fixing each document, any leftover wrong field names are
 removed so the final documents are clean.
+## Author
+
+**Zeyad Waheed Fahmy, Backend - Full Stack Developer / TA**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zeyad-waheed-871725269)
