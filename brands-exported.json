@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "yearFounded": 1970
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "yearFounded": 1980
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brandName": "Licensed Concrete Tuna"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8b4",
+    "brandName": "McDermott Inc",
+    "yearFounded": 1998,
+    "headquarters": "Fort Elenoraland, Bangladesh",
+    "numberOfLocations": 1609,
+    "createdAt": "2026-05-22T22:07:01.630Z",
+    "updatedAt": "2026-05-22T22:07:01.630Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8b6",
+    "brandName": "Cruickshank and Sons",
+    "yearFounded": 2011,
+    "headquarters": "The Woodlands",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-22T22:07:01.646Z",
+    "updatedAt": "2026-05-22T22:07:01.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8b8",
+    "brandName": "The Ancient House of SUV",
+    "yearFounded": 1600,
+    "headquarters": "Janaboro",
+    "numberOfLocations": 46,
+    "createdAt": "2026-05-22T22:07:01.649Z",
+    "updatedAt": "2026-05-22T22:07:01.649Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8ba",
+    "brandName": "Kessler Inc",
+    "yearFounded": 2026,
+    "headquarters": "Lake Kathleenshire, Minnesota",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-22T22:07:01.651Z",
+    "updatedAt": "2026-05-22T22:07:01.651Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8bc",
+    "brandName": "Padberg - Abernathy",
+    "yearFounded": 2010,
+    "headquarters": "Franeckifort",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-22T22:07:01.653Z",
+    "updatedAt": "2026-05-22T22:07:01.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8be",
+    "brandName": "Sporer, Becker and Jones Global",
+    "yearFounded": 1737,
+    "headquarters": "Elmhurst, USA",
+    "numberOfLocations": 34541,
+    "createdAt": "2026-05-22T22:07:01.656Z",
+    "updatedAt": "2026-05-22T22:07:01.656Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8c0",
+    "brandName": "Café Müller & Ünlü Co.",
+    "yearFounded": 1930,
+    "headquarters": "Zürich",
+    "numberOfLocations": 125,
+    "createdAt": "2026-05-22T22:07:01.658Z",
+    "updatedAt": "2026-05-22T22:07:01.658Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8c2",
+    "brandName": "Al Baik Group",
+    "yearFounded": 1974,
+    "headquarters": "جدة, Saudi Arabia",
+    "numberOfLocations": 216,
+    "createdAt": "2026-05-22T22:07:01.661Z",
+    "updatedAt": "2026-05-22T22:07:01.661Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8c4",
+    "brandName": "Haag, Blanda and Hamill",
+    "yearFounded": 1993,
+    "headquarters": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, Wales, United Kingdom",
+    "numberOfLocations": 22,
+    "createdAt": "2026-05-22T22:07:01.665Z",
+    "updatedAt": "2026-05-22T22:07:01.665Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a10d3858b911e5e63f7d8c6",
+    "brandName": "Mertz, Reichel and Thompson",
+    "yearFounded": 1869,
+    "headquarters": "Kendrickside, North Macedonia",
+    "numberOfLocations": 688,
+    "createdAt": "2026-05-22T22:07:01.667Z",
+    "updatedAt": "2026-05-22T22:07:01.667Z",
+    "__v": 0
+  }
+]

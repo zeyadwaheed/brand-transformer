@@ -1,0 +1,19 @@
+{
+  "name": "brand-transformer",
+  "version": "1.0.0",
+  "scripts": {
+    "reset": "ts-node src/reset.ts",
+    "transform": "ts-node src/transform.ts",
+    "seed": "ts-node src/seed.ts",
+    "export": "ts-node src/export.ts"
+},
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "mongoose": "^8.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1"
+  }
+}
